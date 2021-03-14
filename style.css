@@ -12,3 +12,11 @@ td {
 h2 {
   color: aqua;
 }
+table {
+  border: 1px;
+  width: 100%;
+}
+h2 {
+  color: coral;
+  text-align: left;
+}
