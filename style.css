@@ -4,7 +4,7 @@
 }
 p {
   color: white;
-
+  text-align: left;
 }
 td {
   color: aqua;
@@ -32,4 +32,17 @@ sub {
   text-align: center;
   font-size: 17px;
   font-family: Papyrus;
+}
+a {
+  color:white;
+  font-family: times new roman;
+  text-align: left;
+}
+.MacVsPc {
+  width: 200px;
+  height: 200px;
+}
+.Ipad {
+  width: 200px;
+  height: 200px;
 }
