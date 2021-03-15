@@ -51,3 +51,8 @@ a {
   width: 200px;
   height: 200px;
 }
+
+blockquote {
+  color: rgb(212, 103, 0);
+  font-size: 20px;
+}
